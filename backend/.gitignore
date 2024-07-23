@@ -1,0 +1,10 @@
+# Ignore IDE settings
+backend/.idea/
+
+# Ignore Python bytecode and cache directories
+backend/__pycache__/
+backend/api/__pycache__/
+backend/api/migrations/__pycache__/
+
+# Ignore media files
+backend/media/
